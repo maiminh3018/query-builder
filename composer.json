@@ -1,0 +1,20 @@
+{
+  "name": "maiminh3018/query-builder",
+  "type": "library",
+  "description": "Query builder for PHP & MySQL",
+  "keywords": [
+    "php",
+    "mysql",
+    "query builder"
+  ],
+  "homepage": "https://php4dev.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mai minh",
+      "email": "maiminh196@gmail.com",
+      "homepage": "https://php4dev.com",
+      "role": "Developer"
+    }
+  ]
+}
